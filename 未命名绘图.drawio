@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2023-08-01T18:49:36.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YuPbqAUABmDn41LJ1vtT" version="21.5.2" type="github">
+  <diagram name="第 1 页" id="K87Cg5I7GXfUQclD9moo">
+    <mxGraphModel dx="954" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CJJ266lU1PaaNp_t2myi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CJJ266lU1PaaNp_t2myi-1" target="CJJ266lU1PaaNp_t2myi-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-1" value="greedy下注消息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CJJ266lU1PaaNp_t2myi-2" target="CJJ266lU1PaaNp_t2myi-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-2" value="业务统一处理游戏流水逻辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CJJ266lU1PaaNp_t2myi-3" target="CJJ266lU1PaaNp_t2myi-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-3" value="fisher下注消息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CJJ266lU1PaaNp_t2myi-4" target="CJJ266lU1PaaNp_t2myi-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-4" value="yummy下注消息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CJJ266lU1PaaNp_t2myi-13" target="CJJ266lU1PaaNp_t2myi-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-13" value="判断数据是否合法数据（是否免费下注、是否中jackpot.....）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="351" y="300" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CJJ266lU1PaaNp_t2myi-15" target="CJJ266lU1PaaNp_t2myi-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-15" value="判断是否有参加活动的资格" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="356" y="430" width="116" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJ266lU1PaaNp_t2myi-17" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;任务逻辑：被邀请人任务/邀请人任务/下注任务......&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
