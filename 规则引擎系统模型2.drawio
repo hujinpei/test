@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T13:40:11.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="noM30H9ZQrak3_txGyAl" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T14:08:11.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IeiHHeSRuc21NcapNv_e" version="21.5.2" type="github">
   <diagram name="第 1 页" id="FGJh3REmYH9sXVtc4aAs">
     <mxGraphModel dx="946" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,19 +79,19 @@
         <mxCell id="c4idsRlmBquMWVtExkIc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4idsRlmBquMWVtExkIc-3" target="c4idsRlmBquMWVtExkIc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c4idsRlmBquMWVtExkIc-3" value="输出事件加工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4idsRlmBquMWVtExkIc-3" value="输出事件加工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c4idsRlmBquMWVtExkIc-6" value="规则执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4idsRlmBquMWVtExkIc-6" value="规则执行器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="460" y="420" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c4idsRlmBquMWVtExkIc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c4idsRlmBquMWVtExkIc-7" target="c4idsRlmBquMWVtExkIc-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c4idsRlmBquMWVtExkIc-7" value="时间窗模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4idsRlmBquMWVtExkIc-7" value="时间窗模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="460" y="580" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c4idsRlmBquMWVtExkIc-8" value="场景路由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c4idsRlmBquMWVtExkIc-8" value="场景路由" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="460" y="500" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c4idsRlmBquMWVtExkIc-15" value="Codis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
