@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T08:53:00.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="O6wk0kNPTVggcqGiMbqz" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T10:04:04.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iYnkeGnmvH6T82gh68Um" version="21.6.6" type="github">
   <diagram id="kP-WApDtpRvp6NtTZGy2" name="第 1 页">
     <mxGraphModel dx="1621" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,10 +187,10 @@
         <mxCell id="tr4Kn6T2g6ZR-8CRB6LJ-7" value="下注额度任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="tr4Kn6T2g6ZR-8CRB6LJ-3">
           <mxGeometry x="124" y="35" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="tr4Kn6T2g6ZR-8CRB6LJ-8" value="下注人数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="tr4Kn6T2g6ZR-8CRB6LJ-3">
+        <mxCell id="tr4Kn6T2g6ZR-8CRB6LJ-8" value="抽奖玩法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="tr4Kn6T2g6ZR-8CRB6LJ-3">
           <mxGeometry x="20" y="98" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="tr4Kn6T2g6ZR-8CRB6LJ-9" value="下注次数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="tr4Kn6T2g6ZR-8CRB6LJ-3">
+        <mxCell id="tr4Kn6T2g6ZR-8CRB6LJ-9" value="通用激励模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="tr4Kn6T2g6ZR-8CRB6LJ-3">
           <mxGeometry x="124" y="98" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
