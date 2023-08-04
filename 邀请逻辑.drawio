@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" modified="2023-08-04T02:08:28.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="boZMvaVikr3m8bmhYaGZ" version="21.6.6" type="github">
+  <diagram name="第 1 页" id="_5pdHnLP6WWizIbf7M-w">
+    <mxGraphModel dx="2448" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-1" target="DK8jb_CMpLEFB7HLb_9R-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-4" value="在邀请列表选择被邀请人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DK8jb_CMpLEFB7HLb_9R-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.0143" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-1" value="邀请人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-2" target="DK8jb_CMpLEFB7HLb_9R-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-11" value="发送邀请IM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DK8jb_CMpLEFB7HLb_9R-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.26" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-2" value="des(${secret}_${inviter}_${invitee})组成密钥串，放在邀请IM链接中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="390" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-23" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-8" target="DK8jb_CMpLEFB7HLb_9R-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-8" target="DK8jb_CMpLEFB7HLb_9R-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DK8jb_CMpLEFB7HLb_9R-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-8" value="解密密钥串，验证secret以及invitee是否当前用户" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="630" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-9" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-13" target="DK8jb_CMpLEFB7HLb_9R-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-13" value="被邀请人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-14" target="DK8jb_CMpLEFB7HLb_9R-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-14" value="点击邀请IM，进入小游戏下注，往下注接口传入密钥串" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-18" target="DK8jb_CMpLEFB7HLb_9R-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="645" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-21" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DK8jb_CMpLEFB7HLb_9R-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.0118" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-18" value="是否存在密钥串" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="490" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-22" value="无邀请逻辑，正常下注" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-27" target="DK8jb_CMpLEFB7HLb_9R-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DK8jb_CMpLEFB7HLb_9R-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.0444" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-27" target="DK8jb_CMpLEFB7HLb_9R-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DK8jb_CMpLEFB7HLb_9R-31" vertex="1" connectable="0">
+          <mxGeometry x="0.12" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-27" value="是否已经绑定邀请关系" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="770" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-28" target="DK8jb_CMpLEFB7HLb_9R-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-28" value="查出邀请人uid" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-30" target="DK8jb_CMpLEFB7HLb_9R-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-30" value="把当前邀请人以及被邀请人绑定起来" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DK8jb_CMpLEFB7HLb_9R-36" target="DK8jb_CMpLEFB7HLb_9R-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DK8jb_CMpLEFB7HLb_9R-36" value="记录下注数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
