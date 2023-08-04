@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T08:52:43.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KRkEw88LvhdYIu7zCyVs" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T08:53:00.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="O6wk0kNPTVggcqGiMbqz" version="21.6.6" type="github">
   <diagram id="kP-WApDtpRvp6NtTZGy2" name="第 1 页">
     <mxGraphModel dx="1621" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="105" y="672" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpVw8w48rec5jtllySkK-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="555" y="560" width="125" height="90" as="geometry" />
+          <mxGeometry x="555" y="560" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kpVw8w48rec5jtllySkK-17" value="小游戏流水抽象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="555" y="560" width="100" height="30" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="240" y="340" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EJtgx4ozu5CaRGJBaJ_n-23" value="抽象流水" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="565" y="600" width="90" height="35" as="geometry" />
+          <mxGeometry x="632.5" y="600" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="uNRUGT3ZcrBbDmXLUn96-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="165" y="524" width="335" height="236" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="219.5" y="585" width="230" height="162" as="geometry" />
         </mxCell>
         <mxCell id="EJtgx4ozu5CaRGJBaJ_n-47" value="公共数据模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="555" y="664" width="110" height="33" as="geometry" />
+          <mxGeometry x="545" y="654.5" width="110" height="33" as="geometry" />
         </mxCell>
         <mxCell id="EJtgx4ozu5CaRGJBaJ_n-48" value="抽水率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="575" y="697" width="90" height="35" as="geometry" />
