@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T01:46:39.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JaywKZhHp3ozAq0nKmj0" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T02:08:35.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="G-nfpTLzjtjQWtDYzlod" version="21.6.6" type="github">
   <diagram id="kP-WApDtpRvp6NtTZGy2" name="第 1 页">
     <mxGraphModel dx="1363" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,6 +70,9 @@
           <mxGeometry x="-0.3106" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4Hw1vgzc4PBeOLACVNT6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HylPsPeqol7YV2XYOOTy-66" target="meWgZkDrPoLSAOYtjGAn-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HylPsPeqol7YV2XYOOTy-66" value="小游戏流水抽象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="863.25" y="710" width="100" height="60" as="geometry" />
@@ -178,7 +181,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WE1ehVCZ9KRVXhAfx5hg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="meWgZkDrPoLSAOYtjGAn-43" target="HylPsPeqol7YV2XYOOTy-68">
+        <mxCell id="WE1ehVCZ9KRVXhAfx5hg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="meWgZkDrPoLSAOYtjGAn-43" target="HylPsPeqol7YV2XYOOTy-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="meWgZkDrPoLSAOYtjGAn-43" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
