@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T07:45:09.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZPlOPpMtGCaGvwQ1D-aA" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T07:48:00.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="k80Pieh_lKV1hnIzklIY" version="21.6.6" type="github">
   <diagram name="第 1 页" id="-mFOCxZfS_cT_lnfD2RP">
     <mxGraphModel dx="1388" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,13 +27,13 @@
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a8GOypt-1dUs1rcHn5vJ-5" target="a8GOypt-1dUs1rcHn5vJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8GOypt-1dUs1rcHn5vJ-5" value="日榜" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="a8GOypt-1dUs1rcHn5vJ-5" value="小游戏下注任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a8GOypt-1dUs1rcHn5vJ-6" target="a8GOypt-1dUs1rcHn5vJ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8GOypt-1dUs1rcHn5vJ-6" value="总榜" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="a8GOypt-1dUs1rcHn5vJ-6" value="小游戏盈利任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a8GOypt-1dUs1rcHn5vJ-7" target="a8GOypt-1dUs1rcHn5vJ-3" edge="1">
@@ -47,10 +47,10 @@
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-7" value="公共数据模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a8GOypt-1dUs1rcHn5vJ-12" value="累加日榜zSet&lt;br&gt;${actId}_${game}_${day}_dailyRank" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92.5" y="450" width="235" height="80" as="geometry" />
+        <mxCell id="a8GOypt-1dUs1rcHn5vJ-12" value="1.累计天下注额&lt;br&gt;2.首次天下注额&amp;gt;=完成阈值发送任务完成消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="81.25" y="450" width="257.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a8GOypt-1dUs1rcHn5vJ-15" value="累加总榜zSet&lt;br&gt;${actId} _${game}_totalRank" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="a8GOypt-1dUs1rcHn5vJ-15" value="1.累计天盈利额&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2.首次天下注额&amp;gt;=完成阈值发送任务完成消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="470" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
