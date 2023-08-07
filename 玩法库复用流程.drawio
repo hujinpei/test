@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T07:48:00.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="k80Pieh_lKV1hnIzklIY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T08:00:42.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HWgZXPBdY4basLe6hZML" version="21.6.6" type="github">
   <diagram name="第 1 页" id="-mFOCxZfS_cT_lnfD2RP">
     <mxGraphModel dx="1388" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a8GOypt-1dUs1rcHn5vJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a8GOypt-1dUs1rcHn5vJ-2" target="a8GOypt-1dUs1rcHn5vJ-3" edge="1">
+        <mxCell id="hZOUT8HGUfMjCS3bmT7Y-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8GOypt-1dUs1rcHn5vJ-2" target="hZOUT8HGUfMjCS3bmT7Y-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-2" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
@@ -22,13 +22,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-3" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a8GOypt-1dUs1rcHn5vJ-5" target="a8GOypt-1dUs1rcHn5vJ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-5" value="小游戏下注任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a8GOypt-1dUs1rcHn5vJ-6" target="a8GOypt-1dUs1rcHn5vJ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,22 +36,28 @@
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-6" value="小游戏盈利任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a8GOypt-1dUs1rcHn5vJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a8GOypt-1dUs1rcHn5vJ-7" target="a8GOypt-1dUs1rcHn5vJ-3" edge="1">
+        <mxCell id="hZOUT8HGUfMjCS3bmT7Y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8GOypt-1dUs1rcHn5vJ-7" target="hZOUT8HGUfMjCS3bmT7Y-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a8GOypt-1dUs1rcHn5vJ-9" value="提供数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="a8GOypt-1dUs1rcHn5vJ-8" vertex="1" connectable="0">
-          <mxGeometry x="-0.0377" y="-3" relative="1" as="geometry">
+        <mxCell id="hZOUT8HGUfMjCS3bmT7Y-18" value="提供数据依赖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hZOUT8HGUfMjCS3bmT7Y-17">
+          <mxGeometry x="0.1645" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-7" value="公共数据模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-12" value="1.累计天下注额&lt;br&gt;2.首次天下注额&amp;gt;=完成阈值发送任务完成消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81.25" y="450" width="257.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a8GOypt-1dUs1rcHn5vJ-15" value="1.累计天盈利额&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2.首次天下注额&amp;gt;=完成阈值发送任务完成消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="470" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZOUT8HGUfMjCS3bmT7Y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZOUT8HGUfMjCS3bmT7Y-2" target="a8GOypt-1dUs1rcHn5vJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZOUT8HGUfMjCS3bmT7Y-2" value="事件预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
