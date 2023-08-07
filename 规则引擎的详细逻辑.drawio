@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T14:05:36.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="syFxmGtuO43pfroVYPnY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T15:12:27.348Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lce4x_8wEKu7io6apEri" version="21.6.6" type="github">
   <diagram name="第 1 页" id="xfPMHSN2pqAAnrB9GJBP">
-    <mxGraphModel dx="1396" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="DXMq6NsEl37ua_WnOo-x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DXMq6NsEl37ua_WnOo-x-11" target="DXMq6NsEl37ua_WnOo-x-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DXMq6NsEl37ua_WnOo-x-11" value="totalPumpRateFilter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DXMq6NsEl37ua_WnOo-x-11" value="dailyPumpRateFilter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DXMq6NsEl37ua_WnOo-x-14" value="过滤器Filter" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
