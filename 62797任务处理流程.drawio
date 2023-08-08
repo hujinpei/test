@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:51:54.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="UKMETyQcw_QzhfuM5nzX" version="21.6.6" type="github">
+  <diagram name="第 1 页" id="I3rOmpeVcKEGjaGQXJrQ">
+    <mxGraphModel dx="1511" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="exmkFo5Z6jo9sS66icdg-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="150" width="686" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-1" target="exmkFo5Z6jo9sS66icdg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-1" value="小游戏消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-4" target="exmkFo5Z6jo9sS66icdg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-11" value="标准接口提供依赖数据，例如国家码/时区等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exmkFo5Z6jo9sS66icdg-9">
+          <mxGeometry x="0.7714" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-4" target="exmkFo5Z6jo9sS66icdg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-15" value="生成上下文消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exmkFo5Z6jo9sS66icdg-14">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-4" target="exmkFo5Z6jo9sS66icdg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-4" value="消息组装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-8" target="exmkFo5Z6jo9sS66icdg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-8" value="上游营收业务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-13" target="exmkFo5Z6jo9sS66icdg-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-13" target="exmkFo5Z6jo9sS66icdg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-13" value="选择器匹配规则&lt;br&gt;根据事件/游戏/活动时间/活动状态/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-17" value="规则2 过滤器（filterList）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-19" target="exmkFo5Z6jo9sS66icdg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-24" value="通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exmkFo5Z6jo9sS66icdg-23">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-19" value="规则1 过滤器（filterList）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-22" target="exmkFo5Z6jo9sS66icdg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-27" value="如result &amp;gt;= finishValue发送完成任务消息&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exmkFo5Z6jo9sS66icdg-26">
+          <mxGeometry x="-0.3333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-22" value="规则1 执行器（actionList -&amp;gt; dailyBet）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="exmkFo5Z6jo9sS66icdg-25" target="exmkFo5Z6jo9sS66icdg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-29" value="通知上游业务奖励发放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exmkFo5Z6jo9sS66icdg-28">
+          <mxGeometry x="-0.6341" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exmkFo5Z6jo9sS66icdg-25" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="185" y="820" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
