@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T03:54:24.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5mDr9l_DeJETbnW75eLD" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T12:00:15.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yG_aRZOxeK61OyfP-LwE" version="21.6.8" type="github">
   <diagram id="kP-WApDtpRvp6NtTZGy2" name="第 1 页">
-    <mxGraphModel dx="1511" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,16 +154,16 @@
         <mxCell id="snc-uxWqsaC4xuoeJqYB-33" value="大R标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#0e8088;" parent="snc-uxWqsaC4xuoeJqYB-14" vertex="1">
           <mxGeometry x="115.6923076923077" y="171.434375" width="68.18461538461538" height="34.19390625" as="geometry" />
         </mxCell>
-        <mxCell id="snc-uxWqsaC4xuoeJqYB-34" value="充值转化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#0e8088;" parent="snc-uxWqsaC4xuoeJqYB-14" vertex="1">
+        <mxCell id="snc-uxWqsaC4xuoeJqYB-34" value="付费转化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#0e8088;" parent="snc-uxWqsaC4xuoeJqYB-14" vertex="1">
           <mxGeometry x="214.64615384615385" y="171.434375" width="68.18461538461538" height="34.19390625" as="geometry" />
         </mxCell>
-        <mxCell id="sW2l-pxSZwtCEugyFTD0-1" value="流水抽象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="snc-uxWqsaC4xuoeJqYB-14">
+        <mxCell id="sW2l-pxSZwtCEugyFTD0-1" value="流水抽象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="snc-uxWqsaC4xuoeJqYB-14" vertex="1">
           <mxGeometry x="15.261538461538462" y="58.1432865466102" width="88.61538461538461" height="35.29661016949152" as="geometry" />
         </mxCell>
         <mxCell id="snc-uxWqsaC4xuoeJqYB-17" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="165" y="780" width="675" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="sW2l-pxSZwtCEugyFTD0-2" value="" style="group" vertex="1" connectable="0" parent="snc-uxWqsaC4xuoeJqYB-17">
+        <mxCell id="sW2l-pxSZwtCEugyFTD0-2" value="" style="group" parent="snc-uxWqsaC4xuoeJqYB-17" vertex="1" connectable="0">
           <mxGeometry width="675" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GVJ0wXT0H-0ZE1gmcHWH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="sW2l-pxSZwtCEugyFTD0-2" vertex="1">
